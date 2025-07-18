@@ -15,7 +15,7 @@ Image → CNN Encoder → Feature Vector → LSTM Decoder → Generated Caption
 ```
 ## Installation
 ```
-git clone https://github.com/yourusername/image-caption-generator.git
+git clone https://github.com/Nguyenthanhduy16/SIC-2025.git
 pip install -r requirements.txt
 
 ```
